@@ -1,30 +1,28 @@
-# Hi there, I'm# MUTUSRIHEMADHARSHINI! 👋
+# Hi there, I'm MUTHUSRIHEMADHARSHINI S.A 
 
-## 🚀 About Me
-I'm an **engineering student**, a **web developer**, and a **budding data scientist** with a passion for building innovative projects and exploring the potential of AI. I also love writing novels, where I blend whimsical storytelling with deep emotional narratives.
+![Profile Banner](https://camo.githubusercontent.com/14488cdf28d5ced72f07888590f05883c8b4ff15288896a06d5803bf91dc2607/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c3152317476493973766b495777705659722f67697068792e676966)
 
-## 💻 Tech Stack
-- **Programming Languages:** Python, JavaScript, SQL
-- **Frontend:** HTML, CSS, JavaScript (Vanilla, React.js)
-- **Backend:** Node.js, MongoDB
-- **AI & Data Science:** Machine Learning, Data Analytics
-- **Tools & Platforms:** Git, VS Code, Linux, Jupyter Notebook
+## 🌟 About Me
+- 🔭 I’m currently exploring **Data Science, UX/UI Design & Cybersecurity**
+- 🌱 I’m learning **Node.js, MongoDB, Rust**
+- 👯 I’m looking to collaborate on **AI and Open Source Projects**
+- 💬 Ask me about **Python, DSA, Data Analytics**
+- 📫 How to reach me: [LinkedIn](# Hi there, I'm MSHD 👋
 
-## 🌟 Featured Projects
-🚀 **Eco Grod** – A sustainability project showcased in an exhibition.
-💡 **MoodGlow Ring** – A smart device integrating mood detection technology.
-🎥 **Movie Recommendation System** – An AI-driven system for personalized movie suggestions.
+## 🛠 Skills & Tools
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-## 🏆 Achievements
-🎓 Completed an AI & ChatGPT workshop by IIT alumni & 10X Company.
-🛠️ Completed web development internship at CodSoft.
-📊 Data Science internship at Oasis Infobyte.
+## 📈 GitHub Stats
+![MSHD's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muthusrihemadharshini&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muthusrihemadharshini&layout=compact&theme=radical)
 
-## 📌 Current Focus
-🎯 Learning **Node.js & MongoDB** to strengthen my full-stack development skills.
-🎯 Enhancing my **data science expertise** through hands-on projects.
-🎯 Preparing for Google Career Certificates in **Data Analytics, UX Design, and IT Support**.
+## 💬 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muthusrihemadharshini-sa-18934228a/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:samuthu2105@gmail.com)
 
 
-
-💖 _Always learning, always building!_ 🚀
