@@ -21,6 +21,14 @@
 ![MSHD's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muthusrihemadharshini&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muthusrihemadharshini&layout=compact&theme=radical)
 
+
+## 🏆 Open Source Contributions
+
+  ✅ **Python pip** – Documentation Fix  
+  🔗 PR: https://github.com/pypa/pip/pull/13706  
+  🟢 Status: Merged
+
+
 ## 💬 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muthusrihemadharshini-sa-18934228a/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:samuthu2105@gmail.com)
