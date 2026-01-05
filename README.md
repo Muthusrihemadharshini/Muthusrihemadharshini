@@ -7,7 +7,7 @@
 - 🌱 I’m learning **Node.js, MongoDB, Rust**
 - 👯 I’m looking to collaborate on **AI and Open Source Projects**
 - 💬 Ask me about **Python, DSA, Data Analytics**
-- 📫 How to reach me: [LinkedIn](# Hi there, I'm MSHD 👋
+- 📫 How to reach me: [LinkedIn]
 
 ## 🛠 Skills & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
