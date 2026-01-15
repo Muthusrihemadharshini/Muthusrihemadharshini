@@ -18,9 +18,6 @@
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-## 📈 GitHub Stats
-![MSHD's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muthusrihemadharshini&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muthusrihemadharshini&layout=compact&theme=radical)
 
 
 ## 🏆 Open Source Contributions
