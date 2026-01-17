@@ -26,6 +26,9 @@
   🔗 PR: https://github.com/pypa/pip/pull/13706  
   🟢 Status: Merged
 
+  ✅ **Python pyproject-metadata** — Documentation Improvement  
+  🔗 PR: https://github.com/pypa/pyproject-metadata/pull/289  
+  🟢 Status: Merged
 
 ## 💬 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muthusrihemadharshini-sa-18934228a/)
