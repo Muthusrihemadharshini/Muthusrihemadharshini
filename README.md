@@ -30,6 +30,10 @@
   🔗 PR: https://github.com/pypa/pyproject-metadata/pull/289  
   🟢 Status: Merged
 
+  ✅ **Mozilla Firefox** – Accessibility Bug Fix (Bug 1994079)
+  🔗 PR: https://bugzilla.mozilla.org/show_bug.cgi?id=1994079
+  🟢 Status: Landed
+
 ## 💬 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muthusrihemadharshini-sa-18934228a/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:samuthu2105@gmail.com)
