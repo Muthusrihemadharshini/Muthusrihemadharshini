@@ -2,12 +2,12 @@
 
 ![Profile Banner](https://camo.githubusercontent.com/14488cdf28d5ced72f07888590f05883c8b4ff15288896a06d5803bf91dc2607/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c3152317476493973766b495777705659722f67697068792e676966)
 
-## 🌟 About Me
-- 🔭 I’m currently exploring **Data Science, UX/UI Design & Cybersecurity**
-- 🌱 I’m learning **Node.js, MongoDB, Rust**
-- 👯 I’m looking to collaborate on **AI and Open Source Projects**
-- 💬 Ask me about **Python, DSA, Data Analytics**
-- 📫 How to reach me: ![LinkedIn](https://www.linkedin.com/in/muthusrihemadharshini-sa-18934228a/)
+## 🌟 About Me  
+🔭 Building at the intersection of Data Analytics and UX, focused on transforming data into intuitive, user-centered solutions  
+🌱 Working with Python, SQL, R, and Tableau for data analysis, visualization, and machine learning  
+👯 Open to collaborating on data-driven projects, dashboards, and AI-based applications  
+💬 Ask me about Data Analytics, Machine Learning, Visualization, and UX case studies  
+📫 Connect with me on LinkedIn: [LinkedIn Link](https://www.linkedin.com/in/muthusrihemadharshini-sa-18934228a/)
 
 ## 🛠 Skills & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
